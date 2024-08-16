@@ -14,6 +14,7 @@ By using [TEE](https://www.marlin.org/ai) for serving classification predictions
 
 ### Development
 
+Create a `.env` file before running the below commands. See `sample.env`.
 ```bash
 npm install
 npm run dev
